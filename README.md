@@ -22,8 +22,8 @@
   </p>
 
   <p>
-    <b>Hobbies:</b> Tech experiments, animation, web development, bringing ideas to life,
-    solving algorithm puzzles (still learning 😅), anime, and games.
+    <b>Hobbies:</b> Tech experiments, animation, web development, AI Work, bringing ideas to life,
+    solving algorithm puzzles (still learning 😅), anime, games, outside exploring.
   </p>
 
   <p>
@@ -78,9 +78,5 @@
 <br>
 
 <img src="./image/contact-me.gif" align="left" width="373.5px" height="208.5px">
-
-<p align="center">
-  Here are some of my most used social links ヽ(o＾▽＾o)ノ
-</p>
 
 </body>
