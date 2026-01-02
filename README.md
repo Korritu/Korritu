@@ -69,14 +69,6 @@
 </div>
 
 <br>
-
-<!-- WORK -->
-<h2 align="center">⌨️ 𝙒𝙤𝙧𝙠 𝙀𝙭𝙥𝙚𝙧𝙞𝙚𝙣𝙘𝙚 🖱️</h2>
-
-<p align="center">
-  <img src="./image/work_ex.gif"/>
-</p>
-
 <p align="center">
   I don’t wait for ideas — I build them.
   <br>
@@ -84,9 +76,6 @@
 </p>
 
 <br>
-
-<!-- CONTACT -->
-<h2 align="right">📝 𝘾𝙤𝙣𝙩𝙖𝙘𝙩 𝙢𝙚 📝</h2>
 
 <img src="./image/contact-me.gif" align="left" width="373.5px" height="208.5px">
 
